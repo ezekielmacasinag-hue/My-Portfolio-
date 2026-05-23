@@ -32,7 +32,6 @@ about me is i am happy person and i like doing the things that's make me happy l
 |cycling  |sleeping|
 |---------|--------|
 |taekwondo|Eating  |
-|---------|--------|
 | exercise|music   |
 
 ## Why I chose this course 
