@@ -6,12 +6,11 @@
 
 |Nestor|Macasina|
 |------|--------|
-|      |        |
 ### Favorite Foods
 
 - adobong sitaw
 + sinigang
-* 
+* crispy king
 
 <u> Nestor </u>
 
@@ -36,6 +35,7 @@ I chose this course because I am interested in technology, electronics, and how 
 |cycling  |sleeping|
 |---------|--------|
 |taekwondo|Eating  |
+
 
 
 
