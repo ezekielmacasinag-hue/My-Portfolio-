@@ -34,6 +34,7 @@ In the future, I hope to become a successful Electronics Engineer and use my ski
 ## Hobbies 
 
 |Taekwondo|sleeping|
+|---------|--------|
 |cycling  |Eating  |
 
 
