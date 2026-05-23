@@ -33,8 +33,11 @@ I chose this course because I am interested in technology, electronics, and how 
 
 ## Hobbies 
 
-|Taekwondo|sleeping|
+|cycling  |sleeping|
 |---------|--------|
-|cycling  |Eating  |
+|taekwondo|Eating  |
+
+
+
 
 
