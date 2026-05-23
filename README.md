@@ -12,4 +12,4 @@
 - kaldiretang aso
 + ginisang pusa
 * inihaw na pako
--
+<u> Nestor </u>
