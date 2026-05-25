@@ -4,7 +4,7 @@
 **Nestor**
 *Nestor*
 
-|Nestor|Macasina|
+|Nestor|Macasinag|
 |------|--------|
 ### Favorite Foods
 
